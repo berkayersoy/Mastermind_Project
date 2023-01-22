@@ -15,18 +15,16 @@ DAFT1601, Ironhack Paris, 20/01/2023
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+We have been assigned to code a Mastermind game in python using collaboration tools JIRA and Git. 
 
 ## Rules
-Briefly describe the rules of the game.
+Mastermind is a code-breaking game for two players. One player becomes the codemaker, the other the codebreaker. The codemaker chooses a pattern of four colors and hides it. The codebreaker tries to guess the pattern, in both order and color, within twelve turns. Once guessed, the codemaker provides feedback for the guess, red symbol feedback means the color and the position are correct, white symbol feedback represents color is correct but in wrong position and X represents neither of these are correct for the guess. The codebreaker tries to guess in least tries as possible.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+We designed and assigned our tasks in JIRA, created a flowchart to have the high level overview and started coding in collaboration afterwards.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+We worked remotely on google colab for the coding part, and used zoom for communication. Since it is a small project coding has been done simultaneously on google colab.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
