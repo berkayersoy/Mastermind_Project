@@ -25,9 +25,3 @@ We designed and assigned our tasks in JIRA, created a flowchart to have the high
 ## Organization
 We worked remotely on google colab for the coding part, and used zoom for communication. Since it is a small project coding has been done simultaneously on google colab.
 
-## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
