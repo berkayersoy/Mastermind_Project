@@ -1,7 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Mastermind Game
-Karolina Birnbaum
 
 Berkay Ersoy
 
